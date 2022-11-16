@@ -1,4 +1,4 @@
-#Binary search tree
+# Binary search tree
 - this app is an implementation of binary search tree 
 - many BST tree functionality has been provided
 - the folder contain the app implementation with cpp file and text file
